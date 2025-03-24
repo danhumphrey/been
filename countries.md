@@ -1,85 +1,85 @@
 # Europe
 
-- [ ] AD Andorra
+- [x] AD Andorra
 - [ ] AL Albania
 - [x] AT Austria
 - [ ] AX Aland Islands
 - [ ] BA Bosnia and Herzegovina
 - [ ] BE Belgium
 - [ ] BG Bulgaria
-- [x] BY Belarus
-- [x] CH Switzerland
-- [x] CY Cyprus
-- [x] CZ Czech Republic
-- [x] DE Germany
-- [x] DK Denmark
-- [x] EE Estonia
+- [ ] BY Belarus
+- [ ] CH Switzerland
+- [ ] CY Cyprus
+- [ ] CZ Czech Republic
+- [ ] DE Germany
+- [ ] DK Denmark
+- [ ] EE Estonia
 - [x] ES Spain
-- [x] FI Finland
+- [ ] FI Finland
 - [ ] FO Faroe Islands
 - [x] FR France
 - [x] GB United Kingdom
 - [ ] GG Guernsey
 - [ ] GI Gibraltar
-- [ ] GR Greece
+- [x] GR Greece
 - [ ] HR Croatia
 - [ ] HU Hungary
-- [ ] IE Ireland
+- [x] IE Ireland
 - [ ] IM Isle of Man
 - [ ] IS Iceland
-- [x] IT Italy
+- [ ] IT Italy
 - [ ] JE Jersey
 - [ ] LI Liechtenstein
-- [x] LT Lithuania
+- [ ] LT Lithuania
 - [ ] LU Luxembourg
-- [x] LV Latvia
-- [x] MC Monaco
-- [x] MD Moldova
+- [ ] LV Latvia
+- [ ] MC Monaco
+- [ ] MD Moldova
 - [ ] ME Montenegro
 - [ ] MK Macedonia
 - [ ] MT Malta
 - [x] NL Netherlands
 - [ ] NO Norway
-- [x] PL Poland
-- [x] PT Portugal
+- [ ] PL Poland
+- [ ] PT Portugal
 - [ ] RO Romania
 - [ ] RS Serbia
-- [x] RU Russia
+- [ ] RU Russia
 - [ ] SE Sweden
 - [ ] SI Slovenia
 - [ ] SJ Svalbard and Jan Mayen
 - [ ] SK Slovakia
 - [ ] SM San Marino
-- [x] UA Ukraine
+- [ ] UA Ukraine
 - [ ] VA Vatican City
 - [ ] XK Kosovo
 
 # Asia
 
-- [x] AE United Arab Emirates
+- [ ] AE United Arab Emirates
 - [ ] AF Afghanistan
-- [x] AM Armenia
+- [ ] AM Armenia
 - [ ] AZ Azerbaijan
 - [ ] BD Bangladesh
 - [ ] BH Bahrain
 - [ ] BN Brunei Darussalam
 - [ ] BT Bhutan
 - [ ] CN China
-- [x] GE Georgia
+- [ ] GE Georgia
 - [ ] HK Hong Kong
 - [ ] ID Indonesia
 - [ ] IL Israel
-- [ ] IN India
+- [x] IN India
 - [ ] IQ Iraq
 - [ ] IR Iran
 - [ ] JO Jordan
-- [x] JP Japan
-- [x] KG Kyrgyzstan
+- [ ] JP Japan
+- [ ] KG Kyrgyzstan
 - [ ] KH Cambodia
 - [ ] KP North Korea
 - [ ] KR South Korea
 - [ ] KW Kuwait
-- [x] KZ Kazakhstan
+- [ ] KZ Kazakhstan
 - [ ] LA Lao People's Democratic Republic
 - [ ] LB Lebanon
 - [ ] LK Sri Lanka
@@ -88,7 +88,7 @@
 - [ ] MO Macau
 - [ ] MV Maldives
 - [ ] MY Malaysia
-- [x] NP Nepal
+- [ ] NP Nepal
 - [ ] OM Oman
 - [ ] PH Philippines
 - [ ] PK Pakistan
@@ -97,14 +97,14 @@
 - [ ] SA Saudi Arabia
 - [ ] SG Singapore
 - [ ] SY Syria
-- [x] TH Thailand
+- [ ] TH Thailand
 - [ ] TJ Tajikistan
 - [ ] TL Timor-Leste
 - [ ] TM Turkmenistan
 - [x] TR Turkey
 - [ ] TW Taiwan
 - [ ] UZ Uzbekistan
-- [ ] VN Vietnam
+- [x] VN Vietnam
 - [ ] YE Yemen
 
 # Africa
@@ -133,16 +133,16 @@
 - [ ] GO Glorioso Islands
 - [ ] GQ Equatorial Guinea
 - [ ] GW Guinea-Bissau
-- [x] KE Kenya
+- [ ] KE Kenya
 - [ ] KM Comoros
 - [ ] LR Liberia
 - [ ] LS Lesotho
 - [ ] LY Libya
-- [x] MA Morocco
+- [ ] MA Morocco
 - [ ] MG Madagascar
 - [ ] ML Mali
 - [ ] MR Mauritania
-- [x] MU Mauritius
+- [ ] MU Mauritius
 - [ ] MW Malawi
 - [ ] MZ Mozambique
 - [ ] NA Namibia
@@ -160,7 +160,7 @@
 - [ ] SZ Swaziland
 - [ ] TD Chad
 - [ ] TG Togo
-- [x] TN Tunisia
+- [ ] TN Tunisia
 - [ ] TZ Tanzania
 - [ ] UG Uganda
 - [ ] YT Mayotte
@@ -186,7 +186,7 @@
 - [ ] NF Norfolk Island
 - [ ] NR Nauru
 - [ ] NU Niue
-- [ ] NZ New Zealand
+- [x] NZ New Zealand
 - [ ] PF French Polynesia
 - [ ] PG Papua New Guinea
 - [ ] PN Pitcairn Islands
@@ -208,7 +208,7 @@
 # North America
 
 - [ ] BM Bermuda
-- [x] CA Canada
+- [ ] CA Canada
 - [ ] GL Greenland
 - [ ] PM Saint Pierre and Miquelon
 - [x] US United States
@@ -216,7 +216,7 @@
 # Central America
 
 - [ ] BZ Belize
-- [x] CR Costa Rica
+- [ ] CR Costa Rica
 - [ ] CU Cuba
 - [ ] DO Dominican Republic
 - [ ] GT Guatemala
@@ -224,7 +224,7 @@
 - [ ] HT Haiti
 - [ ] JM Jamaica
 - [ ] KY Cayman Islands
-- [x] MX Mexico
+- [ ] MX Mexico
 - [ ] NI Nicaragua
 - [ ] PA Panama
 - [ ] PR Puerto Rico
@@ -239,13 +239,13 @@
 - [ ] BO Bolivia
 - [ ] BR Brazil
 - [ ] CL Chile
-- [x] CO Colombia
-- [x] EC Ecuador
+- [ ] CO Colombia
+- [ ] EC Ecuador
 - [ ] FK Falkland Islands
 - [ ] GF French Guiana
 - [ ] GS South Georgia and South Sandwich Islands
 - [ ] GY Guyana
-- [x] PE Peru
+- [ ] PE Peru
 - [ ] PY Paraguay
 - [ ] SR Suriname
 - [ ] UY Uruguay
