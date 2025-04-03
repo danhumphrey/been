@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aslushnikov/been.git"
+    "url": "git+https://github.com/danhumphrey/been.git"
   },
   "author": "aslushnikov@gmail.com",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/aslushnikov/been/issues"
+    "url": "https://github.com/danhumphrey/been/issues"
   },
-  "homepage": "https://github.com/aslushnikov/been#readme"
+  "homepage": "https://github.com/danhumphrey/been#readme"
 }
